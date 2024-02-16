@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm INIKA N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inika-n&label=Profile%20views&color=0e75b6&style=flat" alt="inika-n" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs,UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-me-nmgr.vercel.app/](https://portfolio-me-nmgr.vercel.app/)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **ReactJs,ML,HTML,CSS,JS**
 
 - 📫 How to reach me **inikakumar6@gmail.com**
 
